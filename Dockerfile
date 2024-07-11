@@ -11,3 +11,4 @@ EXPOSE 8080
 USER 65534:65534
 
 ENTRYPOINT ["/app/go-binary"]
+
